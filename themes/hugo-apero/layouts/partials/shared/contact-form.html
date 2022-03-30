@@ -1,0 +1,14 @@
+<form name="{{ .Title | lower }}-submission"{{ if .Params.formspree_form_id }} action="https://formspree.io/f/{{ .Params.formspree_form_id }}"{{ end }} method="post" accept-charset="utf-8">
+  <fieldset id="{{ .Title | lower }}-inputs">
+    <legend>{{ .Params.Name }}</legend>
+    <label for="full-name">Nome Completo</label>
+    <input type="text" name="name" id="full-name" placeholder="Primeiro e último nome" required>
+    <label for="email-address">Endereço de email</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="Seu@email.aqui" required>
+    <label for="message">Mensagem</label>
+    <textarea rows="6" name="message" id="message" placeholder="Digite a sua mensagem aqui." required></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="{{ .Params.Name | title }} Submission" />
+  </fieldset>
+  <input type="submit" value="{{ if .Params.submit_button_label }}{{ .Params.submit_button_label }}{{ end }}">
+  {{ if .Params.show_poweredby_formspree }}<small class="db dib-l ml4-l">Powered by <a href="https://formspree.io" target="_blank">Formspree</a></small>{{ end }}
+</form>
