@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://consorcioempreendedor-consultor.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Projeto empreeendedor"
