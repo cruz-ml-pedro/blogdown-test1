@@ -28,8 +28,8 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
+  orgName = "Themistocles"
+  orgLocal = "um lugar bem longe daqui"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/revoir.ico"
   logo = "/img/revoir.jpg"
