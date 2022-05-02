@@ -1,15 +1,15 @@
 ---
 ## Configure sidebar content in narrow column
-author: "SEBRAE - FESPSP"
+author: "PROJETO EMPREENDEDOR"
 role: "PROJETO EMPREENDEDOR"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 link_list_label: "Saiba mais sobre nós" # bookmarks, elsewhere, etc.
 link_list:
 - name: SEBRAE
-  url: https://en.wikipedia.org/wiki/Servi%C3%A7o_Brasileiro_de_Apoio_%C3%A0s_Micro_e_Pequenas_Empresas
+  url: https://www.sebrae.com.br/sites/PortalSebrae/ufs/sp/programas/programa-consorcio-empreendedor,5e3cb13f876f9710VgnVCM100000d701210aRCRD
 - name: FESPSP
-  url: https://pt.wikipedia.org/wiki/Funda%C3%A7%C3%A3o_Escola_de_Sociologia_e_Pol%C3%ADtica_de_S%C3%A3o_Paulo
+  url: https://www.fespsp.org.br/consorcioempreendedor
 ---
 
 ** index doesn't contain a body, just front matter above.

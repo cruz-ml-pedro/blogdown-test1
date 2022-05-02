@@ -16,7 +16,7 @@ show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  author: Projeto empreendedor SEBRAE - FESPSP
+  author: Projeto empreendedor 
   description: ""
   show_sidebar_adunit: false
   text_link_url: /index.xml
