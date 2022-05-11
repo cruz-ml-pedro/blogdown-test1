@@ -1,29 +1,20 @@
 ---
-author: Alison Hill
+author: Dr. DOOM
 categories:
-- workshop
-date: "2021-01-12"
-date_end: "2021-01-13"
+date: "2022-05-11"
 draft: false
-event: rstudio::global(2021)
-event_url: https://global.rstudio.com
-excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
-  GitHub, and Netlify.
-featured: true
+excerpt: Aqui você vai encontrar instruções para realização do cadastro de um novo projeto
+featured: false
 layout: single
 links:
-- icon: door-open
+- icon: door-open 
   icon_pack: fas
-  name: website
+  name: BackOffice_slides
   url: https://slides-consorcio-empreendedor.netlify.app/backOffice
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
-location: Sydney, Australia
+location: Yavin 4
 show_post_time: false
-subtitle: Testing
-title: A campfire
+subtitle: Material de Apoio
+title: Sistema de Gestão
 ---
 
-I'm really excited to give this talk! Stay tuned for video and slides.
+No Link acima você vai encontrar uma apresentação de slides com instruções de como proceder para o cadastramento de um novo projeto/município
