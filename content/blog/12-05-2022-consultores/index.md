@@ -3,7 +3,7 @@ author: Dr. DOOM
 categories:
 date: "2022-05-12"
 draft: false
-excerpt: Aqui você vai encontrar instruções para realização do cadastro de um novo evento.
+excerpt: Aqui você vai encontrar instruções para realização do seu cadastro de obtenção de uma senha.
 featured: false
 layout: single
 links:
@@ -17,4 +17,4 @@ subtitle: Material de Apoio
 title: Sistema de Gestão
 ---
 
-No Link acima você vai encontrar uma apresentação de slides com instruções de como proceder para o cadastramento de um novo projeto/município
+No Link acima você vai encontrar uma apresentação de slides com instruções de como proceder para agendar uma nova visita na plataforma do consócio empreendedor 
