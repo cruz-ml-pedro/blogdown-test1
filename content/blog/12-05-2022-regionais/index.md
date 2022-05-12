@@ -13,8 +13,8 @@ links:
   url: https://slides-consorcio-empreendedor.netlify.app/regionais
 location: Yavin 4
 show_post_time: false
-subtitle: Material de Apoio
-title: Sistema de Gestão
+subtitle: Sistema de Gestão - Material de Apoio
+title: Regionais
 ---
 
 No Link acima você vai encontrar uma apresentação de slides com instruções de como proceder para realçizar o seu cadastro e como obter uma senha para acessar a plataforma do consórcio empreendedor.

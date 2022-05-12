@@ -13,8 +13,8 @@ links:
   url: https://slides-consorcio-empreendedor.netlify.app/backOffice
 location: Yavin 4
 show_post_time: false
-subtitle: Material de Apoio
-title: Sistema de Gestão
+subtitle: Sistema de Gestão - Material de Apoio
+title: BackOffice
 ---
 
 No Link acima você vai encontrar uma apresentação de slides com instruções de como proceder para o cadastramento de um novo projeto/município
