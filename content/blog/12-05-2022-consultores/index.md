@@ -17,4 +17,6 @@ subtitle: Sistema de Gestão - Material de Apoio
 title: Consultores
 ---
 
-No Link acima você vai encontrar uma apresentação de slides com instruções de como proceder para agendar uma nova visita na plataforma do consócio empreendedor 
+No Link acima você vai encontrar uma apresentação de slides com instruções de como proceder para agendar uma nova visita na plataforma do consócio empreendedor.
+
+Acessando o link você pode: precionar *o* para visualizar todos os slides no formato miniatura, precionar *f* para o modo de exibição, *c* para abrir uma nova janela com a apresentação e *p* para visualizar possíveis comentários.

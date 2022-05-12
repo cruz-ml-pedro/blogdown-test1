@@ -18,3 +18,5 @@ title: Regionais
 ---
 
 No Link acima você vai encontrar uma apresentação de slides com instruções de como proceder para realçizar o seu cadastro e como obter uma senha para acessar a plataforma do consórcio empreendedor.
+
+Acessando o link você pode: precionar *o* para visualizar todos os slides no formato miniatura, precionar *f* para o modo de exibição, *c* para abrir uma nova janela com a apresentação e *p* para visualizar possíveis comentários.
